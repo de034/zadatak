@@ -1,6 +1,9 @@
 <?php
 
-	echo "na glavnom kompu!";asd
+	echo "na glavnom kompu!";
+	
+	
+	echo "dugi red!";
 
 
 
