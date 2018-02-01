@@ -5,6 +5,6 @@
 	
 	echo "dugi red!";
 
-
+aaa asada
 
 ?>
